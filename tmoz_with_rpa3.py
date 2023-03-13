@@ -83,7 +83,7 @@ def creat_dir(name):
 
 if __name__ == "__main__":
 
-    filename = 'F:\兽游礼包\Once Upon a Breeze (Demo)\game/scripts_story.rpa'
+    filename = 'scripts_base.rpa'
     out_file_path = 'scripts_story'
     # 第几个class类里面的内容 0:TMOZ 1:RPA3
     num = 0
